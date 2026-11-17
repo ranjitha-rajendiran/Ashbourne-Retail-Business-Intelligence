@@ -268,17 +268,19 @@ This project is an ongoing analytical portfolio project. The following component
 
 
 
+
 ## 📊 Dashboard Previews
 
 ### 1. Executive Dashboard
-![01. Executive Overview](Screenshots/01. Executive Overview.png)
+![Executive Dashboard](<Screenshots/01. Executive Overview.png>)
 
 ### 2. Customer Analytics Dashboard
-![02. Customer Analytics](Screenshots/02. Customer Analytics.png)
+![Customer Analytics](<Screenshots/02. Customer Analytics.png>)
 
 ### 3. Store Analytics Dashboard
-![03. Store Analytics](Screenshots/03. Store Analytics.png)
+![Store Analytics](<Screenshots/03. Store Analytics.png>)
 
 ### 4. Marketing Analytics Dashboard
-![04. Marketing Analytics](Screenshots/04. Marketing Analytics.png)
+![Marketing Analytics](<Screenshots/04. Marketing Analytics.png>)
+
 

@@ -1,15 +1,33 @@
+
 # Ashbourne & Co. – Retail Business Intelligence Dashboard
 
 **A Comprehensive Retail Analytics & Business Intelligence Project**
 
-
-## 1. Project Overview
+## Project Overview
 
 Ashbourne & Co. is a retail business intelligence project developed using Microsoft Power BI to analyze business performance across sales, customers, inventory, stores and marketing activities.
 
 The project transforms retail business data into interactive dashboards, enabling stakeholders to monitor key performance indicators (KPIs), identify trends, understand customer behavior and evaluate operational and marketing performance.
 
 The project currently consists of four dashboard modules, with further analysis using Python, SQL and statistical methods planned as future extensions.
+
+---
+
+## 📊 Dashboard Previews
+
+### 01. Executive Dashboard
+![Executive Dashboard](Screenshots/01.%20Executive%20Overview.png)
+
+### 02. Customer Analytics Dashboard
+![Customer Analytics](Screenshots/02.%20Customer%20Analytics.png)
+
+### 03. Store & Inventory Dashboard
+![Store Analytics](Screenshots/03.%20Store%20Analytics.png)
+
+### 04. Marketing Analytics Dashboard
+![Marketing Analytics](Screenshots/04.%20Marketing%20Analytics.png)
+
+---
 
 ## 2. Business Objectives
 
@@ -266,18 +284,4 @@ This project is an ongoing analytical portfolio project. The following component
 
 *This project demonstrates the application of business intelligence and analytical techniques to retail business performance and decision-making.*
 
-
-## 📊 Dashboard Previews
-
-### 1. Executive Dashboard
-![Executive Dashboard](<Screenshots/01. Executive Overview.png>)
-
-### 2. Customer Analytics Dashboard
-![Customer Analytics](<Screenshots/02. Customer Analytics.png>)
-
-### 3. Store Analytics Dashboard
-![Store Analytics](<Screenshots/03. Store Analytics.png>)
-
-### 4. Marketing Analytics Dashboard
-![Marketing Analytics](<Screenshots/04. Marketing Analytics.png>)
 
